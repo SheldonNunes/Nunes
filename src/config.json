@@ -1,0 +1,40 @@
+{
+    "offset": 0,
+    "siblings": [
+        {
+            "name": "Matt & Jaz",
+            "colors": {
+                "background": "#164260e3",
+                "confetti": "#d8b915"
+            }
+        },
+        {
+            "name": "Mieke & Bailey",
+            "colors": {
+                "background": "#164260e3",
+                "confetti": "#d8b915"
+            }
+        },
+        {
+            "name": "Zach & Maria",
+            "colors": {
+                "background": "#164260e3",
+                "confetti": "#d8b915"
+            }
+        },
+        {
+            "name": "Sarah",
+            "colors": {
+                "background": "#164260e3",
+                "confetti": "#d8b915"
+            }
+        },
+        {
+            "name": "Sheldon & Dulcie",
+            "colors": {
+                "background": "#2c584b",
+                "confetti": "#e5aadb"
+            }
+        }
+    ]
+}
