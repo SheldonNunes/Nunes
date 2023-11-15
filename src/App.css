@@ -35,3 +35,22 @@ h2 {
   border-radius: 15px;
 }
 
+
+.layout {
+  position: absolute;
+  background-color: #ffffffb3;
+  left: 0;
+  top: 0; 
+  width: 100vw;
+}
+
+.nav {
+  display: flex;
+  justify-content: end;
+  gap: 30px;
+  margin: 20px 40px;
+}
+
+.nav a {
+  color: black;
+}

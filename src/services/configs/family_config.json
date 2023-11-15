@@ -1,6 +1,6 @@
 {
     "offset": 0,
-    "siblings": [
+    "family": [
         {
             "name": "Sheldon & Dulcie",
             "colors": {
@@ -9,31 +9,24 @@
             }
         },
         {
-            "name": "Sheldon & Dulcie",
-            "colors": {
-                "background": "#164260e3",
-                "confetti": "#d8b915"
-            }
-        },
-        {
-            "name": "Sheldon & Dulcie",
-            "colors": {
-                "background": "#164260e3",
-                "confetti": "#d8b915"
-            }
-        },
-        {
-            "name": "Sheldon & Dulcie",
-            "colors": {
-                "background": "#164260e3",
-                "confetti": "#d8b915"
-            }
-        },
-        {
-            "name": "Sheldon & Dulcie",
+            "name": "Greg & Lois",
             "colors": {
                 "background": "#2c584b",
                 "confetti": "#e5aadb"
+            }
+        },
+        {
+            "name": "Mieke & Bailey",
+            "colors": {
+                "background": "#164260e3",
+                "confetti": "#d8b915"
+            }
+        },
+        {
+            "name": "Zach & Maria",
+            "colors": {
+                "background": "#164260e3",
+                "confetti": "#d8b915"
             }
         }
     ]
